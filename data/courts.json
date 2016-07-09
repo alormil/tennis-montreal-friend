@@ -100,87 +100,1376 @@
         },
         {
             "address": "11301 L’Acadie Blvd",
+            "address_components": [
+                {
+                    "long_name": "Marcelin-Wilson Park",
+                    "short_name": "Marcelin-Wilson Park",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "Ahuntsic-Cartierville",
+                    "short_name": "Ahuntsic-Cartierville",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H3M 2T1",
+                    "short_name": "H3M 2T1",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Marcelin-Wilson Park, Montréal, QC H3M 2T1, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.53611919999999,
+                    "lng": -73.68245329999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.5374681802915,
+                        "lng": -73.6811043197085
+                    },
+                    "southwest": {
+                        "lat": 45.5347702197085,
+                        "lng": -73.6838022802915
+                    }
+                }
+            },
             "id": 2,
             "name": "MARCELIN-WILSON",
-            "nbcourts": 6
+            "nbcourts": 6,
+            "place_id": "ChIJFX8lqoYYyUwRQaHe-EXWimo",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "9300 blvd Gouin Ouest",
+            "address_components": [
+                {
+                    "long_name": "Parc-Nature du-Bois-du-Saraguay",
+                    "short_name": "Parc-Nature du-Bois-du-Saraguay",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "Ahuntsic-Cartierville",
+                    "short_name": "Ahuntsic-Cartierville",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montreal",
+                    "short_name": "Montreal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Montreal",
+                    "short_name": "Montreal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H4K 1C2",
+                    "short_name": "H4K 1C2",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc-Nature du-Bois-du-Saraguay, Montreal, QC H4K 1C2, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.5153902,
+                    "lng": -73.7404646
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.51673918029149,
+                        "lng": -73.73911561970849
+                    },
+                    "southwest": {
+                        "lat": 45.5140412197085,
+                        "lng": -73.7418135802915
+                    }
+                }
+            },
             "id": 3,
             "name": "SARAGUAY",
-            "nbcourts": 1
+            "nbcourts": 1,
+            "partial_match": true,
+            "place_id": "ChIJJwUoasQiyUwRk1XalNWEwGc",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "9300 rue Saint-Denis",
+            "address_components": [
+                {
+                    "long_name": "Parc Henri-Julien",
+                    "short_name": "Parc Henri-Julien",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "Youville",
+                    "short_name": "Youville",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ahuntsic-Cartierville",
+                    "short_name": "Ahuntsic-Cartierville",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H2M 1P1",
+                    "short_name": "H2M 1P1",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Henri-Julien, Montréal, QC H2M 1P1, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.54929,
+                        "lng": -73.6457709
+                    },
+                    "southwest": {
+                        "lat": 45.545519,
+                        "lng": -73.6539006
+                    }
+                },
+                "location": {
+                    "lat": 45.5476128,
+                    "lng": -73.6505395
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.54929,
+                        "lng": -73.6457709
+                    },
+                    "southwest": {
+                        "lat": 45.545519,
+                        "lng": -73.6539006
+                    }
+                }
+            },
             "id": 4,
             "name": "HENRI-JULIEN",
-            "nbcourts": 4
+            "nbcourts": 4,
+            "place_id": "ChIJW_lifcIYyUwR3QUfht03Ksw",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "1000 ave Emile-Journault",
+            "address_components": [
+                {
+                    "long_name": "1000",
+                    "short_name": "1000",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avenue Émile Journault",
+                    "short_name": "Avenue Émile Journault",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "André-Grasset",
+                    "short_name": "André-Grasset",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Ahuntsic-Cartierville",
+                    "short_name": "Ahuntsic-Cartierville",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H2M 2E7",
+                    "short_name": "H2M 2E7",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "1000 Avenue Émile Journault, Montréal, QC H2M 2E7, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.55375739999999,
+                        "lng": -73.63580619999999
+                    },
+                    "southwest": {
+                        "lat": 45.55211870000001,
+                        "lng": -73.63827979999999
+                    }
+                },
+                "location": {
+                    "lat": 45.5529381,
+                    "lng": -73.63704299999999
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.5542870302915,
+                        "lng": -73.63569401970848
+                    },
+                    "southwest": {
+                        "lat": 45.55158906970851,
+                        "lng": -73.63839198029149
+                    }
+                }
+            },
             "id": 5,
             "name": "COMPLEXE SPORTIF CLAUDE-ROBILLARD",
-            "nbcourts": 12
+            "nbcourts": 12,
+            "place_id": "ChIJaWb1JdoYyUwRXzb4HaDIXYI",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "7070 ave de la Nantaise",
+            "address_components": [
+                {
+                    "long_name": "Parc des Roseraies",
+                    "short_name": "Parc des Roseraies",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "Avenue de la Nantaise",
+                    "short_name": "Avenue de la Nantaise",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Anjou",
+                    "short_name": "Anjou",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H1M",
+                    "short_name": "H1M",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc des Roseraies, Avenue de la Nantaise, Montréal, QC H1M, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.593264,
+                    "lng": -73.5553336
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.5946129802915,
+                        "lng": -73.55398461970849
+                    },
+                    "southwest": {
+                        "lat": 45.5919150197085,
+                        "lng": -73.55668258029151
+                    }
+                }
+            },
             "id": 6,
             "name": "DES ROSERALES",
-            "nbcourts": 4
+            "nbcourts": 4,
+            "partial_match": true,
+            "place_id": "ChIJVYo0qH8eyUwRyfOqVmDH-Y4",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "7130 ave Goncourt",
+            "address_components": [
+                {
+                    "long_name": "Parc Goncourt",
+                    "short_name": "Parc Goncourt",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "Avenue Goncourt",
+                    "short_name": "Avenue Goncourt",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Anjou",
+                    "short_name": "Anjou",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H1K",
+                    "short_name": "H1K",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Goncourt, Avenue Goncourt, Montréal, QC H1K, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.6032174,
+                        "lng": -73.5559438
+                    },
+                    "southwest": {
+                        "lat": 45.6011992,
+                        "lng": -73.5597124
+                    }
+                },
+                "location": {
+                    "lat": 45.6020951,
+                    "lng": -73.5576778
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.6035572802915,
+                        "lng": -73.5559438
+                    },
+                    "southwest": {
+                        "lat": 45.6008593197085,
+                        "lng": -73.5597124
+                    }
+                }
+            },
             "id": 7,
             "name": "GONCOURT",
-            "nbcourts": 2
+            "nbcourts": 2,
+            "place_id": "ChIJwSNe9HAeyUwR2Lrz4eRojDA",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "7051 ave de l’Alsace",
+            "address_components": [
+                {
+                    "long_name": "Parc Lucie-Bruneau",
+                    "short_name": "Parc Lucie-Bruneau",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "7070",
+                    "short_name": "7070",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avenue de l'Alsace",
+                    "short_name": "Avenue de l'Alsace",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Anjou",
+                    "short_name": "Anjou",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H1J 2K6",
+                    "short_name": "H1J 2K6",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Lucie-Bruneau, 7070 Avenue de l'Alsace, Anjou, QC H1J 2K6, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.6041243,
+                    "lng": -73.5841978
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.6054732802915,
+                        "lng": -73.5828488197085
+                    },
+                    "southwest": {
+                        "lat": 45.6027753197085,
+                        "lng": -73.58554678029151
+                    }
+                }
+            },
             "id": 8,
             "name": "LUCIE-BRUNEAU",
-            "nbcourts": 5
+            "nbcourts": 5,
+            "place_id": "ChIJ2z9fwVoeyUwRbGKcun-e4yA",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "7501 ave Rondeau",
+            "address_components": [
+                {
+                    "long_name": "Parc Roger-Rousseau",
+                    "short_name": "Parc Roger-Rousseau",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "Anjou",
+                    "short_name": "Anjou",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H1K 2P3",
+                    "short_name": "H1K 2P3",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Roger-Rousseau, Anjou, QC H1K 2P3, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.6192124,
+                        "lng": -73.5460495
+                    },
+                    "southwest": {
+                        "lat": 45.6153377,
+                        "lng": -73.551907
+                    }
+                },
+                "location": {
+                    "lat": 45.6172658,
+                    "lng": -73.54955919999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.6192124,
+                        "lng": -73.5460495
+                    },
+                    "southwest": {
+                        "lat": 45.6153377,
+                        "lng": -73.551907
+                    }
+                }
+            },
             "id": 9,
             "name": "ROGER-ROUSSEAU",
-            "nbcourts": 4
+            "nbcourts": 4,
+            "place_id": "ChIJl28YSQ4eyUwRefHxRAQUsy0",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "4900 Hampton",
+            "address_components": [
+                {
+                    "long_name": "Parc Somerled",
+                    "short_name": "Parc Somerled",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "Avenue de Hampton",
+                    "short_name": "Avenue de Hampton",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Notre-Dame-de-Grâce",
+                    "short_name": "Notre-Dame-de-Grâce",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "short_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H3X 1T4",
+                    "short_name": "H3X 1T4",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Somerled, Avenue de Hampton, Montréal, QC H3X 1T4, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.4744989,
+                    "lng": -73.6355375
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4758478802915,
+                        "lng": -73.6341885197085
+                    },
+                    "southwest": {
+                        "lat": 45.4731499197085,
+                        "lng": -73.63688648029151
+                    }
+                }
+            },
             "id": 10,
             "name": "SOMERLED",
-            "nbcourts": 12
+            "nbcourts": 12,
+            "place_id": "ChIJvbW-fk8XyUwRXC41YsrWAb0",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "3220 Appleton",
+            "address_components": [
+                {
+                    "long_name": "Parc Kent",
+                    "short_name": "Parc Kent",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "short_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H3S 2T3",
+                    "short_name": "H3S 2T3",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Kent, Montréal, QC H3S 2T3, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.5040796,
+                    "lng": -73.63216609999999
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.50542858029149,
+                        "lng": -73.63081711970848
+                    },
+                    "southwest": {
+                        "lat": 45.5027306197085,
+                        "lng": -73.63351508029149
+                    }
+                }
+            },
             "id": 11,
             "name": "KENT",
-            "nbcourts": 5
+            "nbcourts": 5,
+            "place_id": "ChIJyavmJsAZyUwRU2hLuS_11fM",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "Ave Royal between Ave Monkland & de Terrebonne",
+            "address_components": [
+                {
+                    "long_name": "4335",
+                    "short_name": "4335",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Avenue de Hampton",
+                    "short_name": "Avenue de Hampton",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Notre-Dame-de-Grâce",
+                    "short_name": "Notre-Dame-de-Grâce",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "short_name": "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H4A",
+                    "short_name": "H4A",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                }
+            ],
+            "formatted_address": "4335 Avenue de Hampton, Montréal, QC H4A, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.4716801,
+                    "lng": -73.6275965
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4730290802915,
+                        "lng": -73.6262475197085
+                    },
+                    "southwest": {
+                        "lat": 45.4703311197085,
+                        "lng": -73.6289454802915
+                    }
+                }
+            },
             "id": 12,
             "name": "NDG YMCA",
-            "nbcourts": 3
+            "nbcourts": 3,
+            "partial_match": true,
+            "place_id": "ChIJTwcrY0wXyUwRwa1jh0qrPvY",
+            "types": [
+                "street_address"
+            ]
         },
         {
             "address": "1500 rue Remembrance",
+            "address_components": [
+                {
+                    "long_name": "Parc Lasalle",
+                    "short_name": "Parc Lasalle",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "Lachine",
+                    "short_name": "Lachine",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H8S 1W4",
+                    "short_name": "H8S 1W4",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Lasalle, Lachine, QC H8S 1W4, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.4401648,
+                        "lng": -73.6706931
+                    },
+                    "southwest": {
+                        "lat": 45.4363755,
+                        "lng": -73.67745579999999
+                    }
+                },
+                "location": {
+                    "lat": 45.43865390000001,
+                    "lng": -73.6743104
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4401648,
+                        "lng": -73.6706931
+                    },
+                    "southwest": {
+                        "lat": 45.4363755,
+                        "lng": -73.67745579999999
+                    }
+                }
+            },
             "id": 13,
             "name": "CENTRE DE TENNIS LACHINE",
-            "nbcourts": 12
+            "nbcourts": 12,
+            "place_id": "ChIJZ6fly-sWyUwRKufmQEuQ_lE",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "4100 rue Provost",
+            "address_components": [
+                {
+                    "long_name": "Parc Carignan",
+                    "short_name": "Parc Carignan",
+                    "types": [
+                        "establishment",
+                        "point_of_interest"
+                    ]
+                },
+                {
+                    "long_name": "42e Avenue",
+                    "short_name": "42e Avenue",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lachine",
+                    "short_name": "Lachine",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H8T",
+                    "short_name": "H8T",
+                    "types": [
+                        "postal_code",
+                        "postal_code_prefix"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Carignan, 42e Avenue, Montréal, QC H8T, Canada",
+            "geometry": {
+                "location": {
+                    "lat": 45.44330979999999,
+                    "lng": -73.7019813
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.44465878029149,
+                        "lng": -73.70063231970849
+                    },
+                    "southwest": {
+                        "lat": 45.44196081970849,
+                        "lng": -73.70333028029151
+                    }
+                }
+            },
             "id": 14,
             "name": "CARNIGAN",
-            "nbcourts": 4
+            "nbcourts": 4,
+            "place_id": "ChIJ1bVK9FsWyUwRIC_5y0IuVNo",
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
         },
         {
             "address": "695-54 ave",
+            "address_components": [
+                {
+                    "long_name": "Parc Dixie",
+                    "short_name": "Parc Dixie",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "54e Av",
+                    "short_name": "54e Av",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lachine",
+                    "short_name": "Lachine",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Montréal",
+                    "short_name": "Montréal",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Communauté-Urbaine-de-Montréal",
+                    "short_name": "Communauté-Urbaine-de-Montréal",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Québec",
+                    "short_name": "QC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Canada",
+                    "short_name": "CA",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H8T 3A2",
+                    "short_name": "H8T 3A2",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Parc Dixie, 54e Av, Montréal, QC H8T 3A2, Canada",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 45.4442749,
+                        "lng": -73.7167754
+                    },
+                    "southwest": {
+                        "lat": 45.44212659999999,
+                        "lng": -73.7192633
+                    }
+                },
+                "location": {
+                    "lat": 45.4431099,
+                    "lng": -73.7182031
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.44454973029149,
+                        "lng": -73.7166703697085
+                    },
+                    "southwest": {
+                        "lat": 45.4418517697085,
+                        "lng": -73.71936833029152
+                    }
+                }
+            },
             "id": 15,
             "name": "DIXIE",
-            "nbcourts": 2
+            "nbcourts": 2,
+            "place_id": "ChIJN8QL-EAWyUwRm2vfcoxpE6o",
+            "types": [
+                "premise"
+            ]
         },
         {
             "address": "330-80e ave",
